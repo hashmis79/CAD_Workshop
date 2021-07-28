@@ -6,7 +6,9 @@
     * **Windows 7 (64 bit) or higher**
   * As the size of the software is close to 20 Gb. You will need **20 Gb of freespace** in your device.
   * You will need a stable internet connection for downloading close to **20 Gb** of data.
-  * You must have .NET Framework V4.7.2 or higher. If you dont have that upgrade to the latest version through this [link](https://dotnet.microsoft.com/download/dotnet-framework/net48)(downlaod the Runtime option)
+  * You must have .NET Framework **V4.7.2 or higher** (Check your .Net version by following [this](https://support.citrix.com/article/CTX224771)). If you dont have that upgrade to the latest version 
+    * [For Windows 10](https://dotnet.microsoft.com/download/dotnet-framework/net48)
+    * [For Windows 8/7](https://dotnet.microsoft.com/download/dotnet-framework/net472)
    
 # Installation 
 * For the installation of SolidWorks 2021 follow the mentioned steps
