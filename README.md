@@ -14,7 +14,7 @@
 * For the installation of SolidWorks 2021 follow the mentioned steps
   * First download the installation setup from this [link](https://allpcworld.com/solidworks-premium-2021-free-download-712546/)
   * Turn-off your “Internet Connection”.
-  * Turn-off “Windows Defender” real-time protection.<\br>
+  * Turn-off “Windows Defender” real-time protection.</br>
     For doing so in windows, go to “Start Menu” and search “Windows Defender” or “Defender”.
   * If you have any other Antivirus Program in your PC, then Turn-off their protection.
   * Refer [this video](https://www.youtube.com/watch?v=YwwOqODxwq8) for the further installation instructions
