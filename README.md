@@ -11,7 +11,7 @@
     * [For Windows 8/7](https://dotnet.microsoft.com/download/dotnet-framework/net472)
    
 # Installation 
-* For the installation of SolidWorks 2021 follow the mentioned steps
+* For the installation of SolidWorks 2021 follow the below mentioned steps
   * First download the installation setup from this [link](https://allpcworld.com/solidworks-premium-2021-free-download-712546/)
   * Turn-off your “Internet Connection”.
   * Turn-off “Windows Defender” real-time protection.</br>
