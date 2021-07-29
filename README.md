@@ -9,7 +9,7 @@
   * You will be needing the WinRAR for extracting files. Be sure to check the version (5.71 32 bit). If you dont have WinRAR or the same version, you can download it from [here](https://www.winrarfree.net/download-file/for-windows/version-5.71/wrar571.exe).
   * You must have .NET Framework **V4.7.2 or higher** (Check your .Net version by following [this](https://support.citrix.com/article/CTX224771)). If you dont have that upgrade to the latest version 
     * [For Windows 10](https://dotnet.microsoft.com/download/dotnet-framework/net48)
-    * [For Windows 8/7](https://dotnet.microsoft.com/download/dotnet-framework/net472)
+    <!--* [For Windows 8/7](https://dotnet.microsoft.com/download/dotnet-framework/net472)  -->
    
 # Installation 
 * For the installation of SolidWorks 2021 follow the below mentioned steps
